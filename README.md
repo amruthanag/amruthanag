@@ -1,7 +1,7 @@
   
 # Data Analyst Portfolio
 
-Welcome to my data analyst portfolio! Here, you'll find a collection of my data analysis projects, visualizations, and insights. I'm passionate about extracting valuable insights from data and using it to make informed decisions. Feel free to explore my work and get in touch if you have any questions or opportunities for collaboration.
+Welcome to my data analyst portfolio! Here, you'll find a collection of my data analysis projects, visualizations and some leetcode problems with solutions. I'm passionate about extracting valuable insights from data and using it to make informed decisions. Feel free to explore my work and get in touch if you have any questions or opportunities for collaboration.
 
 ## About Me
 
